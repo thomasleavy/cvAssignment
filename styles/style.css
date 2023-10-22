@@ -1,0 +1,79 @@
+@media (min-width: 468px) {
+  .container-one {
+    display: flex;
+    justify-content: space-evenly;
+  
+  }
+}
+h1 {
+  text-shadow: .5px .5px .5px black;
+  text-align: center;
+}
+
+h2 {
+  text-shadow: .5px .5px .5px black;
+}
+
+h3 {
+  text-shadow: .5px .5px .5px black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+address {
+  text-shadow: none;
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.cover-letter {
+  text-align: center;
+}
+
+.social-media {
+  text-align: center;
+}
+
+.container-one div {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.box-one {
+  flex: 1;
+  order: 1;
+}
+
+.education {
+  font-weight: bold;
+}
+
+.box-two {
+  flex: 1;
+  order: 2;
+}
+
+.experience {
+  font-weight: bold;
+}
+
+.box-three {
+  flex: 1;
+  order: 3;
+}
+
+.skills {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.references {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
